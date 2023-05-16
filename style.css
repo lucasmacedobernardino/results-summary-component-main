@@ -163,7 +163,7 @@ main {
   background: linear-gradient(var(--light-slate-blue), var(--light-royal-blue));
 }
 
-@media (min-width: 375px){
+@media (max-width: 375px){
   main{
     flex-direction: column;
   }
